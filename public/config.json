@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "title": "Prajwal Wankhade — Software Engineer",
+    "description": "Software Engineer experienced in backend systems, data platforms, and full‑stack product development.",
+    "themeColor": "#0b1220",
+    "keywords": [
+      "Prajwal Wankhade",
+      "Software Engineer",
+      "Backend Engineer",
+      "Node.js",
+      "Express",
+      "Flutter",
+      "NIT Jalandhar"
+    ]
+  },
+  "person": {
+    "name": "Prajwal Wankhade",
+    "role": "Software Development Engineer",
+    "location": "India",
+    "tagline": "Software Development Engineer with experience building scalable backend systems, data pipelines, and user‑centric products.",
+    "avatarUrl": "/avatar.png",
+    "resumeUrl": "",
+    "about": [
+      "I am a Software Engineer with a B.Tech in Information Technology from Dr B R Ambedkar National Institute of Technology, Jalandhar (NIT Jalandhar). I enjoy designing and building reliable systems that solve real problems for users at scale.",
+      "At Roundglass Foundation, I’ve worked across backend, auth, and analytics — from designing data collection platforms used by hundreds of daily users to integrating services with BI tools for real‑time reporting. Previously, at GKMT, I contributed to microservices‑based applications, fixing bugs and shipping dashboards that made internal teams more productive.",
+      "I’m particularly interested in backend engineering, distributed systems, and developer tooling — with hands‑on experience in Node.js, Express, MongoDB, SQL, and cloud services like AWS S3. I like working in collaborative, iterative environments where code quality, clear communication, and impact matter.",
+      "Beyond work, I enjoy experimenting with side projects, exploring new frameworks, and continuously improving my understanding of system design and performance."
+    ],
+    "quickFacts": [
+      {
+        "label": "Primary stack",
+        "value": "Node.js • Express • MongoDB • SQL • Flutter"
+      },
+      {
+        "label": "Education",
+        "value": "B.Tech, Information Technology — NIT Jalandhar (2020–2024)"
+      },
+      {
+        "label": "Currently learning",
+        "value": "System design and scalable backend architectures"
+      }
+    ]
+  },
+  "education": [
+    {
+      "school": "Dr B R Ambedkar National Institute Of Technology, Jalandhar",
+      "program": "B.Tech, Information Technology",
+      "start": "2020",
+      "end": "2024",
+      "location": "Jalandhar, India",
+      "details": [
+        "CGPA: 7.5",
+        "Relevant coursework: Data Structures and Algorithms, Operating Systems, DBMS, OOPs"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Roundglass Foundation",
+      "title": "Software Development Engineer",
+      "start": "07/2024",
+      "end": "Present",
+      "location": "India",
+      "description": "Working as a Software Development Engineer on data‑driven products, authentication, and integrations for reporting and analytics.",
+      "highlights": [
+        "Designed and deployed a dynamic form‑based data collection system used by 900+ daily users, enabling real‑time backend synchronization and analytics that reduced manual data processing by ~60%.",
+        "Led migration to FusionAuth, strengthening authentication security and reducing auth‑related failures.",
+        "Integrated new features into CI/CD pipelines to increase deployment consistency and reduce release issues by ~20%.",
+        "Integrated backend services with Power BI for live reporting, using Firebase Functions and NocoDB (SQL) to manage and serve data pipelines.",
+        "Collaborated in Agile sprints with designers, backend engineers, and product teams using Git workflows and code reviews to deliver features iteratively."
+      ],
+      "tech": [
+        "Node.js",
+        "Express",
+        "Firebase Functions",
+        "FusionAuth",
+        "NocoDB",
+        "SQL",
+        "Power BI",
+        "CI/CD",
+        "Git"
+      ]
+    },
+    {
+      "company": "GKMT",
+      "title": "Software Developer Intern",
+      "start": "05/2023",
+      "end": "07/2023",
+      "location": "India",
+      "description": "Software development intern working on microservices‑based applications, dashboards, and cross‑platform UI.",
+      "highlights": [
+        "Solved different types of bugs and progressively worked in a microservices‑based architecture.",
+        "Developed interactive dashboards used daily by customer success teams, reducing manual reporting time by 50%.",
+        "Built cross‑platform UI components in Flutter deployed across web and mobile, ensuring consistent UX."
+      ],
+      "tech": [
+        "Flutter",
+        "Dart",
+        "Microservices",
+        "Dashboards"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "TrainMate",
+      "description": "A fitness platform providing schedules, workouts, diets, and transformation journeys with secure authenticated access and media uploads.",
+      "highlights": [
+        "Engineered RESTful APIs for schedules, workouts, diets, and transformation journeys with Auth0 JWT‑based access control and secure session management.",
+        "Modeled data with Mongoose (users, meal logs, workout sessions, photo check‑ins) and built aggregation pipelines to surface diet and workout insights.",
+        "Implemented an AWS S3 upload flow for daily check‑ins and optimized performance via cursor‑based pagination, validation/error‑handling middleware, and rate limiting to harden endpoints."
+      ],
+      "tech": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "Auth0",
+        "JWT",
+        "AWS S3",
+        "Flutter"
+      ],
+      "imageUrl": "",
+      "links": []
+    },
+    {
+      "name": "Warehouse Robot Path Optimization Simulator",
+      "description": "A warehouse simulation system for AGVs to optimize item‑picking routes using the A* algorithm with real‑time visualization.",
+      "highlights": [
+        "Built a warehouse simulation system for AGVs to optimize item‑picking routes using the A* algorithm.",
+        "Designed a grid‑based Flutter UI to visualize real‑time AGV movement, collision detection, and task execution.",
+        "Implemented high‑performance pathfinding logic in C++, integrated with Flutter through FFI bindings.",
+        "Optimized multi‑robot scheduling and queued task execution, ensuring efficient and collision‑free navigation."
+      ],
+      "tech": [
+        "Flutter",
+        "Dart",
+        "C++",
+        "FFI",
+        "A* algorithm",
+        "Simulation"
+      ],
+      "imageUrl": "",
+      "links": []
+    }
+  ],
+  "interests": [
+    "Backend engineering",
+    "Distributed systems",
+    "Data platforms and analytics",
+    "Building developer tools and dashboards"
+  ],
+  "contact": {
+    "email": "prajwalwankhade11@gmail.com",
+    "phone": "+91 9673725874",
+    "cta": "Looking for opportunities to build impactful backend systems and full‑stack products.",
+    "availability": "Open to software engineering roles and internships."
+  },
+  "links": {
+    "codingPlatforms": [
+      {
+        "label": "LeetCode",
+        "url": "https://leetcode.com/prajwalwankhade11",
+        "icon": "leetcode"
+      },
+      {
+        "label": "Codeforces",
+        "url": "https://codeforces.com/profile/prajwalwankhade11",
+        "icon": "codeforces"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/prajwalwankhade11",
+        "icon": "github"
+      }
+    ],
+    "social": [
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/prajwalwankhade11",
+        "icon": "linkedin"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/prajwalwankhade11",
+        "icon": "github"
+      }
+    ]
+  }
+}
+
